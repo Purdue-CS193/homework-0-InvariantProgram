@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Kevin's First CS193 Homework
 - Coding is used in almost every discipline
 - You can create amazing projects using programming
