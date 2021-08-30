@@ -22,11 +22,16 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Image](https://wallpapercave.com/wp/wp5338276.jpg)
+
+_Words in Italic_
+**Bold Words**
+`Hello World`
 
 ### Jekyll Themes
 
