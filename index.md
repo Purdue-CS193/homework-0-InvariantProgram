@@ -1,16 +1,17 @@
 ## Welcome to GitHub Pages
 
+# Kevin's First CS193 Homework
+- Coding is used in almost every discipline
+- You can create amazing projects using programming
+- Computing technology is an exciting aspect of the future
+
+
 [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![Image](https://wallpapercave.com/wp/wp5338276.jpg)
 
 _Words in Italic_
 **Bold Words**
 `Hello World`
-
-# Kevin's First CS193 Homework
-- Coding is used in almost every discipline
-- You can create amazing projetcs using programming
-- Computing technology is an exciting aspect of the future
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
